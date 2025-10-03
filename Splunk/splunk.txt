@@ -18,3 +18,14 @@ user;admin
 pass;Str0ngPass!
 
 https://hub.docker.com/r/splunk/splunk
+
+
+Download Forwarder in Windows / Linux for test :
+#Windows:
+https://download.splunk.com/products/universalforwarder/releases/10.0.1/windows/splunkforwarder-10.0.1-c486717c322b-windows-x64.msi
+
+# Download the MSI
+Invoke-WebRequest -Uri "https://download.splunk.com/products/universalforwarder/releases/10.0.1/windows/splunkforwarder-10.0.1-c486717c322b-windows-x64.msi" -OutFile splunkforwarder-10.0.1-x64.msi
+
+#Linux:
+wget -O splunkforwarder-10.0.1.x86_64.rpm "https://download.splunk.com/products/universalforwarder/releases/10.0.1/linux/splunkforwarder-10.0.1-c486717c322b.x86_64.rpm"
