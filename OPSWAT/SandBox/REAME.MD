@@ -9,8 +9,8 @@ docker run -d -p 5000:5000 -e OPSWAT_API_KEY="XXXXXXXXXXXXXXXXXXX" --name my-sca
 docker logs -f my-scanner
 
 
-#Test File :
-#SUSPCIOUS:
+#Test Files :
+#SUSPICIOUS.txt:
 URGENT: Your account has been compromised.
 Please click the link below to verify your password and download the security update:
 
@@ -23,7 +23,7 @@ Contact admin at:
 phishing-test@wicar.orgs
 
 
-#VALID:
+#VALID.txt:
 20.3.20.140
 # IP IOC Test (Google DNS - Usually marked as Informational/Safe)
 8.8.8.8
