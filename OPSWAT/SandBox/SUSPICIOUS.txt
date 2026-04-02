@@ -1,0 +1,10 @@
+URGENT: Your account has been compromised.
+Please click the link below to verify your password and download the security update:
+
+[http://www.amtso.org/check-desktop-phishing-page/](http://www.amtso.org/check-desktop-phishing-page/)
+
+Backup server connection:
+[http://www.amtso.org/check-desktop-malware-file/](http://www.amtso.org/check-desktop-malware-file/)
+
+Contact admin at:
+phishing-test@wicar.orgs
