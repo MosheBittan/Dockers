@@ -1,0 +1,13 @@
+20.3.20.140
+
+# IP IOC Test (Google DNS - Usually marked as Informational/Safe)
+8.8.8.8
+
+# Known Malicious IP Test (Example of a flagged C2 IP)
+20.3.20.140
+
+# Phishing/Malicious Email Test
+bad-actor@malicious-domain.com
+
+Connecting to server at 1.1.1.1
+Sending logs to admin-test@company.local
