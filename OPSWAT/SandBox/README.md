@@ -7,6 +7,7 @@ A lightweight, Dockerized Python web application that uploads files to the OPSWA
 * **Containerized:** Fully Dockerized for easy, cross-platform deployment.
 * **Deep Forensics Extraction:** Maps OSINT reputation and behavioral network/email Indicators of Compromise (IOCs).
 * **Modern Web Interface:** Clean, user-friendly dashboard to view the analysis results.
+* **Comment:** The Sandbox API only uses an asynchronous connection.
 
 ---
 
