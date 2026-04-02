@@ -32,6 +32,7 @@ docker run -d -p 5000:5000 -e OPSWAT_API_KEY="XXXXXXXXXXXXXXXXXXX" --name my-sca
 
 # 4. Follow the application logs
 docker logs -f my-scanner
+```
 
 
 ## 📮 Testing via Postman
